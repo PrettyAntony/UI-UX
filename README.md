@@ -8,4 +8,4 @@ npm start
 
 ```
 
-[Edit here](https://div-pwa.dev/~/gh/PrettyAntony/UI-UX)
+[Edit here](https://diy-pwa.dev/~/gh/PrettyAntony/UI-UX)
